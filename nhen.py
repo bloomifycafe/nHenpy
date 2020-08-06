@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 client = commands.Bot(command_prefix='.')
 LINK = "https://nhentai.net/"
-TOKEN = "NzQwODA2MTc5MjE4OTE1NDA5.XyuXhA.P8UNdagobZirSLjgpbbCGvrdNMc"
+TOKEN = ""
 
 class Henpy():
     """Main class for Henpy requests and data handling.
