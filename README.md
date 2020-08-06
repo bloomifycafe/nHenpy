@@ -122,6 +122,18 @@ Locate to wherever your nhen.py file is, and use the following command to start 
 ```sh
 python nhen.py
 ```
+Display all available commands by entering:
+```
+.help
+```
+Display information about a specific code, or a random code if you're feeling lucky:
+```
+.sex <code|random>
+```
+Return a random hentai from a specific list of tags:
+```
+.tags <tags>
+```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
