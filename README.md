@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Why?
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://totenk0pf.tk)
 
 Because I can.
 
@@ -150,14 +150,16 @@ Please don't. Although, I can't really stop you even if I wanted to, so:
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU General Public License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Huu Quang Nguyen - [totenk0pf@bloomify.me](mailto:totenk0pf@bloomify.me) - email
+E-mail: [totenk0pf@bloomify.me](mailto:totenk0pf@bloomify.me)
+
+Discord: totenk0pf#6957
 
 Project Link: [https://github.com/totenk0pf/nHenpy](https://github.com/totenk0pf/nHenpy)
 
