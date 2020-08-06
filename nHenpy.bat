@@ -1,0 +1,4 @@
+SET token=
+ECHO Launching nHenpy...
+python bot.py %token%
+pause
