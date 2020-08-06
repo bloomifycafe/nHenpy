@@ -111,14 +111,17 @@ pip install -U beautifulsoup4
 ```sh
 git clone https://github.com/totenk0pf/nHenpy.git
 ```
-2. Create a new Discord application for your bot, copy the newly-generated token and replace the empty TOKEN string with it.
+2. Create a new Discord application for your bot and copy the newly-generated token.
 
-
+3. Edit the included *nHenpy.bat* file using a text editor, and paste your token in following this format:
+```
+SET token=YOUR_TOKEN_HERE
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Locate to wherever your nhen.py file is, and use the following command to start the bot.
+Locate to wherever your nhen.py file is, and launch the bot using nHenpy.bat.
 ```sh
 python nhen.py
 ```
